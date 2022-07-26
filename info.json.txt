@@ -16,7 +16,7 @@
 
     "status": "active",
 
-    "id": "0X472AB0E69493D35B4C0965F01466B04D57D97252",
+    "id": "0xA77cb603CF1E76D0A8a4556826316e058fa89Ce2",
 
     "logoURL": "https://raw.githubusercontent.com/Bitcoin-META/0xA77cb603CF1E76D0A8a4556826316e058fa89Ce2/main/logo.png",
 
